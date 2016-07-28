@@ -1,4 +1,12 @@
 /*
+Project Description
+Develop a Console Application related to a Sales Commission calculation
+- Instantiates 3 salespersons named “Fred”, “Bob”, and “Jill”.
+- generates random sales amount in the range [0, 10000] for Fred, Bob and Jill and stores them in the corresponding objects
+- Display the table with salespersons’ information as shown in the sample output.
+- Compute and display the name of the salesperson who has made the maximum sales as shown in the sample output.
+ */
+/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
