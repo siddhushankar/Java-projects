@@ -1,4 +1,9 @@
 /*
+Project description 
+Develop a Console application that prompts the user to enter the amount deposited in the account each month, the annual interest rate and the number of months,
+and displays the amount in the savings account at the end of each month in the format shown in the sample output.
+*/
+/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
