@@ -1,4 +1,9 @@
 /*
+Project Description
+Develop a console based application that will calculate the commission made by 10 salespersons. 
+It will also calculate the maximum of the sales amount and the commission.
+*/
+/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
