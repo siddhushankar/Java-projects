@@ -1,4 +1,14 @@
 /*
+Project description
+-Ask the user to enter a 3-digit number between 100 and 999 and display the digits in the number in reverse order. Hint: use the / and % operators to extract the digits.
+-Ask the user to input the cost of a movie ticket in dollars and the number of stars the movie received out of 5 and then prints on the console how interested the user is in watching the movie (very, sort-of, or not interested), based on the following criteria:
+- You like bargains. Any movie that costs less than $5.00 is one that you want to see very much.
+- You dislike expensive movies. You are not interested in seeing any movie that costs $12.00 or more
+- You like quality. You are very interested in seeing 5 star movies that cost under $12.00.
+- You are sort-of interested in seeing movies costing between $5.00 - $11.99 that also got between 2-4 stars both inclusive.
+- You are not interested in seeing any other movies not described previously.
+*/
+/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
